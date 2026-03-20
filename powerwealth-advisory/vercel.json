@@ -1,3 +1,6 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  "env": {
+    "VITE_KNOCK_PUBLIC_KEY": "pk_test_ev57NDp_FzqFqii0ofzg8h0iJsrEiYcEp1qHstooZTs",
+    "VITE_GOOGLE_API_KEY": "AIzaSyDdPCxXR-5xiqHdDbJOqtHhH6pi2qHlpSk"
+  }
 }
